@@ -1,6 +1,6 @@
 # Interactive-Dictionary
 
-> This project is an interactive diction that has been built in Python3.
+> This project is an interactive dictionary that has been built in Python3.
 
 
 # Getting Started
